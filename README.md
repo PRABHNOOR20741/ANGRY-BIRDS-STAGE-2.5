@@ -1,2 +1,2 @@
-# ANGRY-BIRDS-STAGE-2.5
-Today we have learned the concept of inheritence and added the images in the game
+# angryBirdsStage2StudentActivity
+Student Activity Link for Angry Birds Stage 2
